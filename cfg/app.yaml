@@ -1,0 +1,6 @@
+# detector_weights: "weights/yolov5.onnx"
+detector_weights: "weights/yolov5.pt"
+recognizer_weights: "weights/"
+vietocr_cfg: "cfg/vgg-seq2seq.yaml"
+batch_size: 4
+pt: True
